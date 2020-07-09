@@ -8,7 +8,7 @@ DNA has 2 strands in a double helix. The nucleotides in one strand are bonded to
 
 <img src="https://github.com/YingXie24/images/blob/master/Python-2-DnaProcessing/dnastructure.jpg" height=2% >
 
-In **DNAProcessing.py**, several functions were implemented:
+In **DnaProcessing.py**, several functions were implemented:
 * get_length(dna): returns the length of the DNA sequence data
 * is_longer(dna1, dna2): returns True if dna1 is longer than dna2
 * count_nucleotides(dna, nucleotide): returns the number of occurences of nucleotide in the DNA sequence dna
