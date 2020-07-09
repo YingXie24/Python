@@ -6,7 +6,7 @@ DNA is made up of four type of nucleotides, adenine (A), guanine (G), cytosine (
 
 DNA has 2 strands in a double helix. The nucleotides in one strand are bonded to the nucleotides in the other strand. A and T can be bonded together, and thus complement each other; similarly C and G are complements of each other. The two strand in DNA are complementary because each nucleotide in one strand is bonded with its complement in the other strand. Thus, given the DNA sequence ACGTACG, its complementary strand is TGCATCG.
 
-<img src="https://github.com/YingXie24/images/tree/master/Python-2-DnaProcessing" width=70% >
+<img src="https://github.com/YingXie24/images/blob/master/Python-2-DnaProcessing/dnastructure.jpg" height=2% >
 
 In **DNAProcessing.py**, several functions were implemented:
 * get_length(dna): returns the length of the DNA sequence data
