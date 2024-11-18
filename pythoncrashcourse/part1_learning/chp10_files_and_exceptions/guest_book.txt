@@ -1,0 +1,4 @@
+Ying
+Andrei
+Max
+/usr/local/bin/python3 /users/yingxie/documents/course/pythoncrashcourse/learning/chp10_files_and_exceptions/10-1_learning_python.py
